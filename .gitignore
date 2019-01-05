@@ -1,5 +1,6 @@
 # dependencies
 nodeserver/node_modules
+ReactApp/node_modules
 
 # testing
 nodeserver/coverage
@@ -7,6 +8,9 @@ nodeserver/coverage
 # production
 nodeserver/build
 nodeserver/log.*
+ReactApp/build
+ReactApp/log.*
+
 
 # misc
 .DS_Store
